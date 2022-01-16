@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009013287440",
+    "project_id": "painscore-ff2d3",
+    "storage_bucket": "painscore-ff2d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009013287440:android:195c9a07ba3c99134c7895",
+        "android_client_info": {
+          "package_name": "com.example.painscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009013287440-bu7m6voj81jcgsun9p151oo3da5seocb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPd7l7tsYmiM6NeHPdBBPY6Jw9dLjAOL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009013287440-bu7m6voj81jcgsun9p151oo3da5seocb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
